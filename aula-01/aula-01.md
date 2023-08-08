@@ -19,5 +19,6 @@ Gets é uma função pré definida que lê uma cadeia de caracteres, incluido o 
 Imprime o Gets. A função puts sempre pula linha após a escrita do nome.
 
 ## Matriz
+
 ![image](https://github.com/raianecj/estrutura-de-dados/assets/39846447/b897b2a9-fe6c-4d28-ad62-7643c6b60838)
 
