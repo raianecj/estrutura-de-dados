@@ -1,4 +1,4 @@
-//Matriz 4x4 utilizando consntate
+//Matriz 4x4 utilizando constante
 #include <iostream>
 using namespace std;
 main(){
