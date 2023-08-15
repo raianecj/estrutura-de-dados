@@ -22,3 +22,4 @@ Imprime o Gets. A função puts sempre pula linha após a escrita do nome.
 
 ![image](https://github.com/raianecj/estrutura-de-dados/assets/39846447/b897b2a9-fe6c-4d28-ad62-7643c6b60838)
 
+Ir para [Aula 02](https://github.com/raianecj/estrutura-de-dados/blob/main/aula-02/aula-02.md).
